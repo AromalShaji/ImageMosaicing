@@ -1,4 +1,4 @@
-# Image Mosaicking using SIFT and RANSAC
+# Image Mosaicing using SIFT and RANSAC
 
 This Python script demonstrates how to create a mosaic by stitching two images together using the Scale-Invariant Feature Transform (SIFT) algorithm for keypoint detection and matching, along with the Random Sample Consensus (RANSAC) algorithm for estimating the homography matrix.
 
